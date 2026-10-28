@@ -1,0 +1,10 @@
+# Type 2 Diabetes Watchlist & Landscape — Headline Takeaways
+*(Prepared for Monday medical-affairs portfolio review — all registry/GitHub numbers as returned live on 2026-10-28)*
+
+- Watchlist verification: 3 of 4 NCT numbers on the watchlist return intact registry records — **NCT01608724 (Saxagliptin, AstraZeneca, SUNSHINE)**, **NCT01131676 (Empagliflozin, Boehringer Ingelheim, EMPA-REG OUTCOME)**, **NCT01394952 (Dulaglutide, Eli Lilly, REWIND)** — all three are **COMPLETED** in the registry today. The fourth watchlist number, **NCT02132236**, is **NOT FOUND** (record lookup and ID-targeted search both returned nothing), so we cannot confirm its intervention, status or sponsor; flag this as a data gap before Monday.
+
+- Current landscape: the registry currently returns **877 type 2 diabetes trials in RECRUITING status**. The ten most recently started recruiting T2D trials run from early phase 1 (NCT07409714 SMART 2D / Montelukast) and late phase 4 (NCT07900438 Semaglutide, China) through newer crossover and sensor studies (NCT07888257 LIME-B, NCT07868601 LIME-A, NCT07864168 Medtronic MiniMed sensors, NCT07868354 Zenagamtide-from-tirzepatide, NCT07748208 inavolisib). SGLT2/GLP-1-adjacent and glucose-monitoring events are where the current recent-start wave is concentrated.
+
+- Field composition (12,022 total T2D studies): **by status** — COMPLETED 7,895; UNKNOWN 1,529; TERMINATED 579; NOT_YET_RECRUITING 431; ACTIVE_NOT_RECRUITING 341; WITHDRAWN 242; ENROLLING_BY_INVITATION 92; SUSPENDED 33. **By phase** — Phase 3 1,647; Phase 4 1,410; Phase 2 1,317; Phase 1 1,249; Early Phase 1 87; no phase listed 5,312. **By sponsor class** — INDUSTRY 4,364; OTHER 7,200; OTHER_GOV 244; NIH 108; FED 66; INDIV 13; NETWORK 27; AMBIG 0; UNKNOWN 0.
+
+- Open-source angle (open PRs mentioning each watchlist intervention, as returned by GitHub on 2026-10-28): 3 open PRs for **saxagliptin**, 12 open PRs for **empagliflozin**, 3 open PRs for **dulaglutide**. The open-source developer base visibly tracks the SGLT2/GLP-1 pillar of this portfolio, but the fourth watchlist drug could not be searched because its NCT number is absent from the registry.
